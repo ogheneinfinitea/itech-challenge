@@ -611,7 +611,7 @@ BUTTON
 }
 
 .social-media-icon {
-  padding: 8px;
+  padding: 18px;
 }
 
 .footer-logo {
@@ -757,6 +757,8 @@ BUTTON
   margin-bottom: 20px;
   color: #fff;
   font-size: 24px;
+  width:200px;
+  height: 150px
 }
 
 .margin-bottom-2 {
@@ -766,7 +768,7 @@ BUTTON
 .micro-heading {
   font-family: Roboto, sans-serif;
   color: #ff5c5c;
-  font-size: 11px;
+  font-size: 25px;
   font-weight: 900;
   letter-spacing: 2px;
 }
@@ -1711,6 +1713,12 @@ BUTTON
   }
   .short-paragraph {
     width: 100%;
+    text-align: justify-all;
+    text-align: justify;
+  }
+  .palign{
+    width: 100%;
+    text-align: justify;
   }
   .col {
     margin-bottom: 0px;
