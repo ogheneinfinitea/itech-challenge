@@ -710,7 +710,7 @@ BUTTON
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #ff6038;
+  background-color:pink;
   font-family: Roboto, sans-serif;
 }
 
@@ -866,6 +866,7 @@ BUTTON
   top: auto;
   right: auto;
   bottom: -25%;
+
 }
 
 .hexagon2 {
@@ -1517,6 +1518,8 @@ BUTTON
     margin-right: auto;
     margin-bottom: 40px;
     margin-left: auto;
+    width: 50px;
+    height: 50px;
   }
   .nav-link-3 {
     display: block;
