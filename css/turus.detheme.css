@@ -1417,7 +1417,7 @@ BUTTON
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    width: 50%;
+    width: 70px;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
